@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/y-kaanai/y-kaanai/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
-```
-
-    
